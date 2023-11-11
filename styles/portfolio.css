@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif;*/
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -47,7 +47,7 @@ h4 {
   line-height: 2;
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .content-container h1 {
   font-size: 64px;
@@ -161,9 +161,6 @@ footer .social-links a:hover {
 }
 
 @media (max-width: 900px) {
-  .hero {
-    padding: 80px 20px;
-  }
   h1 {
     font-size: 44px;
     line-height: 1.5;
